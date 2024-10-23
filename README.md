@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=5595F0&height=240&text=Welcome%20to%20kisung's%20Github%20😄&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello world! ✋ </h1>  
+    <h1 style="color: #282d33;"> Hello world! ✋ </h1>  
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
